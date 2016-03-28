@@ -1,6 +1,6 @@
-Complete 	O \n
-Working 	V \n
-Not Yet 	X \n
+﻿Complete 	O
+Working 	V
+Not Yet 	X
 
 Work						Check
 
@@ -12,12 +12,12 @@ Splash						O
 Navigation					O
 Toolbar						O
 StatusBar					O
-FloatingActionButton		O
+FloatingActionButton				O
 SnackBar					O
-RoundedImageView			O
-CoordinatorLayout			O
+RoundedImageView				O
+CoordinatorLayout				O
 
-GCM							V
+GCM						V
 Retrofit					X
 GoogleMap					X
 Camera						X
@@ -26,4 +26,4 @@ GridView					X
 CardView					X
 TableLayout					X
 RecycleView					X
-Custom Dialog				X
+Custom Dialog					X
