@@ -1,6 +1,6 @@
-Complete 	O
-Working 	V
-Not Yet 	X
+Complete 	O \n
+Working 	V \n
+Not Yet 	X \n
 
 Work						Check
 
