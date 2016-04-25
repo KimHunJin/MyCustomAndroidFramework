@@ -16,10 +16,11 @@ FloatingActionButton		O
 SnackBar			O
 RoundedImageView		O
 CoordinatorLayout		O
+Retrofit			O
+GoogleMap			O
 
-GCM				V
-Retrofit			X
-GoogleMap			X
+TabView				v
+GCM				v
 Camera				X
 SearchView			X
 GridView			X
@@ -27,5 +28,4 @@ CardView			X
 TableLayout			X
 RecycleView			X
 Custom Dialog			X
-TabView				X
 Menu				X
